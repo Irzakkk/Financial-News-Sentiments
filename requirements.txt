@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+vaderSentiment
+altair
+newspaper3k
